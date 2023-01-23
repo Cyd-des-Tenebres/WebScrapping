@@ -1,0 +1,173 @@
+Ecole;Rank;Statut;Duree;Alternance;Note
+École Polytechnique - Palaiseau;1;Public;3;Non;55/58
+Télécom Paris;2;Public;3;Non;54/58
+CentraleSupélec;3;Public;3;Oui;52/58
+École des ponts ParisTech - Marne-la-vallée;4;Public;3;Non;51/58
+École des mines ParisTech;5;Public;3;Oui;50/58
+IMT Atlantique;6;Public;3;Oui;50/58
+ENSTA Paris;7;Public;3;Oui;49/58
+École des mines - Nancy;8;Public;3;Oui;47/58
+École centrale - Lille;9;Public;3;Oui;46/58
+INSA Lyon;10;Public;5;Oui;46/58
+École centrale - Lyon;11;Public;3;Oui;45/58
+École centrale - Nantes;12;Public;3;Oui;45/58
+ISAE-SUPAERO - Toulouse;13;Public;3;Oui;45/58
+Arts et Métiers Sciences et Technologies;14;Public;3;Oui;44/58
+Grenoble INP - Ensimag;15;Public;3;Oui;44/58
+UTC - Compiègne;16;Public;5;Oui;44/58
+École des mines - Saint-Étienne;17;Public;3;Oui;43/58
+ENSAE Paris;18;Public;3;Oui;43/58
+Grenoble INP - Phelma;19;Public;3;Oui;43/58
+ENSEEIHT - INP Toulouse;20;Public;3;Oui;42/58
+Télécom SudParis - Evry;21;Public;3;Oui;42/58
+UTT - Troyes;22;Public;5;Oui;41/58
+Grenoble INP - Ense³;23;Public;3;Oui;40/58
+AgroParisTech;24;Public;3;Oui;39/58
+École centrale - Marseille;25;Public;3;Oui;39/58
+ECPM - Strasbourg;26;Public;3;Oui;39/58
+ESIEE Paris - Marne-la-Vallée;27;Public;5;Oui;39/58
+ESILV - Paris-La Défense;28;Privé;5;Oui;39/58
+IMT Mines Alès;29;Public;3;Oui;39/58
+INSA Toulouse;30;Public;5;Oui;39/58
+ITEEM (Centrale Lille);31;Public;5;Oui;39/58
+ENSCM - Chimie Montpellier;32;Public;3;Oui;38/58
+IMT Nord Europe;33;Public;5;Oui;38/58
+ESPCI Paris;34;Public;3;Non;37/58
+INP Bordeaux- ENSEIRB - Matmeca;35;Public;3;Oui;37/58
+CY Tech;36;Public;3;Oui;36/58
+ECE - Paris - Lyon;37;Privé;5;Oui;36/58
+ENSCP - Chimie ParisTech;38;Public;3;Oui;36/58
+ESIEA - Paris - Laval;39;Privé;5;Oui;36/58
+Grenoble INP - Génie industriel;40;Public;3;Oui;36/58
+ENSTA Bretagne - Brest;41;Public;3;Oui;35/58
+ESTP - Paris;42;Privé;3;Oui;35/58
+ISEP - Paris;43;Privé;5;Oui;35/58
+UTBM - Belfort-Montbéliard;44;Public;5;Oui;35/58
+Efrei Paris;45;Privé;5;Oui;34/58
+ENI - Metz;46;Public;5;Oui;34/58
+ESTACA;47;Privé;5;Oui;34/58
+ESTIA - Bidart;48;Public;3;Oui;34/58
+IG2I (Centrale Lille);49;Public;5;Oui;34/58
+IMT Mines Albi;50;Public;3;Oui;34/58
+INSA Rouen;51;Public;5;Oui;34/58
+Polytech Grenoble;52;Public;5;Oui;33/58
+Polytech Nice;53;Public;5;Oui;33/58
+CESI École d'ingénieurs;54;Privé;5;Oui;32/58
+EEIGM - INP Lorraine;55;Public;5;Oui;32/58
+ENSEM - INP Lorraine;56;Public;3;Oui;32/58
+ENSG Nancy - INP Lorraine;57;Public;3;Oui;32/58
+ENSIACET - INP Toulouse;58;Public;3;Oui;32/58
+EPITA - Kremlin-Bicêtre;59;Privé;5;Oui;32/58
+Grenoble INP - Esisar;60;Public;5;Oui;32/58
+INSA Rennes;61;Public;5;Oui;32/58
+Polytech Lille;62;Public;5;Oui;32/58
+Télécom Saint-Étienne;63;Public;5;Oui;32/58
+CPE - Lyon;64;Privé;3;Oui;31/58
+ENAC - Toulouse;65;Public;3;Oui;31/58
+ENSCL - Chimie Lille;66;Public;3;Oui;31/58
+ENSICAEN;67;Public;3;Oui;31/58
+ENTPE - Lyon;68;Public;3;Non;31/58
+EPF - Cachan - Troyes - Montpellier;69;Privé;5;Oui;31/58
+ESIGELEC - Rouen;70;Privé;5;Oui;31/58
+ESIPE-MLV Marne-la-Vallée;71;Public;3;Oui;31/58
+INSA Strasbourg;72;Public;5;Oui;31/58
+Polytech Montpellier;73;Public;5;Oui;31/58
+Polytech Nancy;74;Public;5;Oui;31/58
+Polytech Sorbonne;75;Public;5;Oui;31/58
+Agrocampus Ouest;76;Public;5;Oui;30/58
+ECAM - Lyon - Strasbourg;77;Privé;5;Oui;30/58
+ENSEA - Cergy-Pontoise;78;Public;3;Oui;30/58
+ENSIC - INP Lorraine;79;Public;3;Oui;30/58
+Grenoble INP - Pagora;80;Public;3;Oui;30/58
+ISEN Lille;81;Privé;5;Oui;30/58
+ISIMA - Clermont-Ferrand;82;Public;3;Oui;30/58
+EIVP - Paris;83;Public;3;Non;29/58
+ESBS;84;Public;3;Non;29/58
+HEI - Lille;85;Privé;5;Oui;29/58
+ICAM;86;Privé;5;Oui;29/58
+INP Bordeaux - ENSTBB;87;Public;3;Oui;29/58
+ISEN Brest - Rennes - Nantes - Caen (Yncréa Ouest);88;Privé;5;Oui;29/58
+Montpellier SupAgro;89;Public;3;Oui;29/58
+Polytech Marseille;90;Public;5;Oui;29/58
+Polytech Nantes;91;Public;5;Oui;29/58
+Sigma Clermont;92;Public;3;Oui;29/58
+Télécom Physique Strasbourg;93;Public;3;Oui;29/58
+EIGSI - La Rochelle;94;Privé;5;Oui;28/58
+ENGEES - Strasbourg;95;Public;3;Oui;28/58
+ENSAI - Rennes;96;Public;3;Non;28/58
+ENSCMu - Chimie Mulhouse;97;Public;5;Oui;28/58
+ENSIIE - Évry;98;Public;3;Oui;28/58
+ESME - Ivry-sur-Seine;99;Privé;5;Oui;28/58
+INSA Centre Val de Loire;100;Public;5;Oui;28/58
+ISAE Supméca - Saint-Ouen;101;Public;3;Oui;28/58
+Polytech Lyon;102;Public;5;Oui;28/58
+Polytech Paris-Saclay;103;Public;5;Oui;28/58
+Sup Galilée - Villetaneuse;104;Public;5;Oui;28/58
+Télécom Nancy;105;Public;3;Oui;28/58
+EBI - Cergy-Pontoise;106;Privé;5;Oui;27/58
+ESITC - Caen;107;Privé;5;Oui;27/58
+ISAE-ENSMA - Poitiers;108;Public;3;Non;27/58
+Polytech Clermont-Ferrand;109;Public;5;Oui;27/58
+SupOptique - Palaiseau;110;Privé;3;Oui;27/58
+UniLaSalle;111;Privé;5;Oui;27/58
+EIL Côte d'Opale;112;Public;5;Oui;26/58
+ENI - Saint-Étienne;113;Public;5;Oui;26/58
+ENSAIA - INP Lorraine;114;Public;3;Oui;26/58
+ENSAT - INP Toulouse;115;Public;3;Oui;26/58
+ENSGSI - INP Lorraine;116;Public;5;Oui;26/58
+ENSISA - Mulhouse;117;Public;5;Oui;26/58
+EOST - Strasbourg;118;Public;3;Non;26/58
+ESIR - Rennes;119;Public;3;Oui;26/58
+ESIREM - Dijon;120;Public;5;Oui;26/58
+INSA Hauts-de-France;121;Public;5;Oui;26/58
+Bordeaux Sciences Agro;122;Public;3;Oui;25/58
+EIDD - Paris;123;Public;3;Non;25/58
+ENSCR - Chimie Rennes;124;Public;3;Oui;25/58
+ENSIL-ENSCI - Limoges;125;Public;3;Oui;25/58
+ENSIP - Poitiers;126;Public;3;Oui;25/58
+INP Bordeaux - ENSCBP;127;Public;3;Oui;25/58
+Polytech Angers;128;Public;5;Oui;25/58
+Polytech Orléans;129;Public;5;Oui;25/58
+Polytech Tours;130;Public;5;Oui;25/58
+UPSSITECH;131;Public;3;Oui;25/58
+3iL - Limoges;132;Privé;5;Oui;24/58
+AgroSup - Dijon;133;Public;3;Oui;24/58
+ENI Tarbes - INP Toulouse;134;Public;5;Oui;24/58
+ENSGTI - Pau;135;Public;3;Oui;24/58
+ENSMM - Besançon;136;Public;3;Oui;24/58
+ENSSAT - Lannion;137;Public;3;Oui;24/58
+INP Bordeaux - ENSC;138;Public;3;Oui;24/58
+IPSA - Ivry-sur-Seine;139;Privé;5;Non;24/58
+Polytech Annecy-Chambéry;140;Public;5;Oui;24/58
+ENSG - Marne-la-Vallée;141;Public;3;Oui;23/58
+ENSTIB - Épinal;142;Public;3;Oui;23/58
+ESEO Angers – Paris-Vélizy – Dijon;143;Privé;5;Oui;23/58
+ISAT - Nevers;144;Public;5;Oui;23/58
+ISIFC - Besançon;145;Public;3;Oui;23/58
+ENSAIT - Roubaix;146;Public;3;Oui;22/58
+ENSIBS - Lorient;147;Public;5;Oui;22/58
+ISEN - Marseille - Toulon (Yncréa Méditerranée);148;Privé;5;Oui;22/58
+VetAgro Sup;149;Public;3;Oui;22/58
+ECAM-EPMI - Cergy-Pontoise;150;Privé;5;Oui;21/58
+EI.CNAM;151;Public;3;Oui;21/58
+ENI - Brest;152;Public;5;Oui;21/58
+ENSEGID;153;Public;3;Non;21/58
+ENSIM - Le Mans;154;Public;3;Oui;20/58
+ESIAB - Brest;155;Public;3;Oui;20/58
+Sup'Biotech Villejuif;156;Privé;5;Oui;20/58
+ESAIP LaSalle - Angers;157;Privé;5;Oui;19/58
+EsiTech;158;Public;5;Oui;19/58
+ONIRIS - Nantes;159;Public;3;Oui;19/58
+ESCOM - Compiègne;160;Privé;5;Oui;18/58
+ECAM Rennes - Louis de Broglie;161;Privé;5;Oui;17/58
+ISA BTP - Anglet;162;Public;5;Oui;17/58
+ISEL - Le Havre;163;Public;5;Oui;17/58
+Sea Tech Toulon;164;Public;3;Oui;17/58
+ESA - Angers;165;Privé;5;Oui;16/58
+ISIS - Castres;166;Public;5;Oui;16/58
+École nationale de météo - Toulouse;167;Public;3;Non;15/58
+École supérieure du bois - Nantes;168;Privé;3;Oui;15/58
+ESIROI - La Réunion;169;Public;5;Non;15/58
+Paoli Tech;170;Public;3;Non;15/58
+ENSM - Ecole Nationale Supérieure Maritime;171;Public;5;Non;14/58
+ELISA Aerospace;172;Privé;5;Non;12/58
