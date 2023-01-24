@@ -4,4 +4,4 @@ Le code de Projet_scraping_letudiant.ipynb permet de récupérer le classement d
 
 Le code de Projet_scraping_script.ipynb permet de récupérer les données de LinkedIn et d'obtenir un csv avec les candidats classés suivant les critères séléctionnés par l'utilisateur.
 
-Le fichier html montre un exemple que nous avons fait avec le fichier csv qui correspond au résultat obtenu. 
+Nous mettons aussi un exemple à disposition, composé d'un fichier html (Projet_scraping_letudiant.html), d'un fichier csv (Liste_candidats_triee_exemple) résultat de l'exemple et une capture d'écran de l'utilisation de l'interface (interface_exemple.png).
